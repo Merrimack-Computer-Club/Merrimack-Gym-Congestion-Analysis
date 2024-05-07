@@ -6,6 +6,12 @@ This project aims to analyze gym congestion based on survey responses and swipe 
 ## Setup
 This project is implemented in a Jupyter Notebook using Python 3. Required libraries include pandas, numpy, matplotlib, seaborn, and datetime.
 
+## Dependencies
+ - pandas: Data manipulation
+ - numpy: Numerical operations
+ - matplotlib: Plotting graphs
+ - seaborn: Statistical data visualization
+
 ## Data Import
 We import data from the following sources:
 - Survey responses from "Fitness & Rec Survey 2024!!! (Responses) - Form Responses.csv"
